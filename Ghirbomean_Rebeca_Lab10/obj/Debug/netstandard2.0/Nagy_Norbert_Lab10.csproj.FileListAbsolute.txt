@@ -1,0 +1,13 @@
+C:\Users\Home\Desktop\Nagy_Norbert_Lab10-master\Nagy_Norbert_Lab10\obj\Debug\netstandard2.0\Nagy_Norbert_Lab10.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Nagy_Norbert_Lab10-master\Nagy_Norbert_Lab10\obj\Debug\netstandard2.0\Nagy_Norbert_Lab10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Nagy_Norbert_Lab10-master\Nagy_Norbert_Lab10\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Home\Desktop\Nagy_Norbert_Lab10-master\Nagy_Norbert_Lab10\obj\Debug\netstandard2.0\ListEntryPage.xaml.g.cs
+C:\Users\Home\Desktop\Nagy_Norbert_Lab10-master\Nagy_Norbert_Lab10\obj\Debug\netstandard2.0\ListPage.xaml.g.cs
+C:\Users\Home\Desktop\Nagy_Norbert_Lab10-master\Nagy_Norbert_Lab10\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Home\Desktop\Nagy_Norbert_Lab10-master\Nagy_Norbert_Lab10\obj\Debug\netstandard2.0\ProductPage.xaml.g.cs
+C:\Users\Home\Desktop\Nagy_Norbert_Lab10-master\Nagy_Norbert_Lab10\obj\Debug\netstandard2.0\Nagy_Norbert_Lab10.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Nagy_Norbert_Lab10-master\Nagy_Norbert_Lab10\obj\Debug\netstandard2.0\Nagy_Norbert_Lab10.AssemblyInfo.cs
+C:\Users\Home\Desktop\Nagy_Norbert_Lab10-master\Nagy_Norbert_Lab10\obj\Debug\netstandard2.0\Nagy_Norbert_Lab10.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Nagy_Norbert_Lab10-master\Nagy_Norbert_Lab10\obj\Debug\netstandard2.0\Nagy_Norbert_Lab10.dll
+C:\Users\Home\Desktop\Nagy_Norbert_Lab10-master\Nagy_Norbert_Lab10\obj\Debug\netstandard2.0\ref\Nagy_Norbert_Lab10.dll
+C:\Users\Home\Desktop\Nagy_Norbert_Lab10-master\Nagy_Norbert_Lab10\obj\Debug\netstandard2.0\Nagy_Norbert_Lab10.pdb
